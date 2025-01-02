@@ -1,6 +1,8 @@
 # How-To-Get-Walmart-Free-Gift-Card-2025
 Here's an example of a simple HTML page that provides information about Walmart gift cards:
 
+<h3><a href="https://sites.google.com/view/how-to-get-walmart-free-gift-c/">LEARN MORE</a></h3>
+
 html
 Copy code
 <!DOCTYPE html>
@@ -60,7 +62,7 @@ Copy code
         <div class="card">
             <h2>How to Get a Walmart Gift Card</h2>
             <ul>
-                <li>Purchase online from <a href="https://www.walmart.com">walmart.com</a>.</li>
+    
                 <li>Buy in-store at any Walmart location.</li>
                 <li>Earn as a reward from apps like Swagbucks or InboxDollars.</li>
                 <li>Receive it as a gift for special occasions.</li>
